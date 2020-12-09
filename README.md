@@ -1,2 +1,2 @@
 # Personal_Website_Design
-hey there! i'm going to share with you my own creating  personal_website
+hey there! I have made my own portfolio website, Hope you like it!
